@@ -1,6 +1,8 @@
 I want to HACK around on this:
 - Download the latest version of Netbeans (6.8 at the time of this writing)
 - Install the JavaFX plugins
+- Download the project via git (git clone http://github.com/webdevwilson/javafx-sticky-notes.git)
+- Open it in Netbeans and click 'run' (F6)
 
 Just let me see it RUN:
 - Go to http://www.goodercode.com/wp/?p=25
